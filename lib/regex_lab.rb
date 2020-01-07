@@ -11,7 +11,7 @@ text.scan(/un\w+ing/)
 end
 
 def words_five_letters_long(text)
-return array = text.split
+return_array = text.split
 text.match(/w\{5})
 end
 
